@@ -20,7 +20,7 @@ Clone Repository
 
 #bash
 Copy code
-git clone https://github.com/your-username/job-portal.git
+git clone 
 cd job-portal
 Setup Backend
 Navigate to the backend directory:
